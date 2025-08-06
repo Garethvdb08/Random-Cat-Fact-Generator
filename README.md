@@ -31,4 +31,4 @@ This project uses the [Cat Facts API](https://alexwohlbruck.github.io/cat-facts/
 
 ## License
 
-├── index.html # The main HTML file ├── style.css # The CSS file for styling └── scripts.js # The JavaScript file for functionality
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
